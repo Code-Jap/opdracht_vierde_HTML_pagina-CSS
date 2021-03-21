@@ -1,0 +1,49 @@
+body {
+    background-color: #f4f4f4;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height: 1.8em;
+    font-size: 18px;
+
+}
+h1 {
+    color:rgb(184, 30, 30);
+    font-size: 36px;
+}
+.black-border {
+    border: 3px solid black;
+}
+p {
+    color:navy;
+}
+.background-green {
+    background-color: olive;
+}
+#lighter {
+    font-weight:lighter;
+}
+.green {
+    color:forestgreen;
+}
+.dark-grey {
+    color: #555555;
+}
+#serif {
+    font-family: serif;
+}
+.box-shadow {
+    box-shadow: 3px 6px deeppink;
+}
+
+.background {
+    background-color: lightblue;
+    box-shadow: 3px 6px red ;
+}
+.italic {
+    font-style: italic;
+}
+h1 {
+    text-decoration: underline;
+}
+.other-font {
+    font-family: 'Dancing Script', cursive;
+}
